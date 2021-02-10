@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Bienvenido a <a href="#">Nobu!</a>
+          Bienvenido a <a href="#">Nobu!!</a>
         </h1>
 
         <div className={styles.grid}>
